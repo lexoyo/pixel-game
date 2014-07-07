@@ -11,6 +11,8 @@ This uses Haxe so it can be compile for the browser - HTML canvas and Flash, as 
 
 WTFPL (Do What the Fuck You Want to Public License)
 
+![Pixel game by lexoyo](screenshot.png "Pixel game by lexoyo")
+
 ##Use
 
 Requirements:
@@ -22,7 +24,7 @@ Install and launch in the browser:
     git clone git@github.com:lexoyo/pixel-game.git
     cd pixel-game/
     lime test openfl.xml html5
-    
+
 Deploy and launch on ios (requires apple developer account and ```lime setup ios```)
 
     lime test openfl.xml ios
