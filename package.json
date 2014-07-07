@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "node-ffi": "^0.5.7",
+    "shelljs": "^0.3.0"
+  }
+}

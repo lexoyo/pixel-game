@@ -1,0 +1,4 @@
+-swf bin/pixel-game.swf
+-main Main
+-cp src
+-debug

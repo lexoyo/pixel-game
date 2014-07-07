@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+
+ <meta title="Pixel game" package="org.lexoyo.pixel-game" version="1.0.0" company="@lexoyo" />
+ <app main="Main" path="Export" file="pixel-game" />
+
+ <source path="src" />
+
+ <haxelib name="openfl" />
+
+</project>
